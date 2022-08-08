@@ -1,0 +1,50 @@
+body {
+    background: black;
+    margin: 0;     font-family: 'Roboto Flex', sans-serif;
+}
+div.post{
+    background: white;
+    margin-top: 10px;
+}
+div.post img {
+    width: 100%;
+}
+.subtitle {
+    display: inline-block;
+    width: 80%;
+}
+.dots {
+    width: 15%;
+    text-align: right;
+    color: black;
+    float: right; 
+    padding-top: 1%;
+}
+div.container {
+    width: 409px;
+    margin: auto;
+    padding-top: 0%;
+}
+.fa-bookmark {
+    float: right;
+    padding-right: 3%;
+}
+div.subtitle img {
+    float: left;
+    width: 12%;
+    padding-top: 6%;
+    padding-left: 4%;
+}
+.text {
+    padding-bottom: 2%;
+    padding-left: 2%;
+    font-size: 15px;
+    padding-right: 1%;
+
+}
+#header-text {
+    padding-top: 6%;
+}
+.fa-regular {
+    padding-left: 2%;
+ }
